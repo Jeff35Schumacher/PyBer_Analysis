@@ -1,0 +1,7 @@
+city_data.csv
+=3 columns, 120 rows
+headers: city,driver_count,type
+
+ride_data.csv
+=4 columns, 2375 rows
+Headers: city,date,fare,ride_id
